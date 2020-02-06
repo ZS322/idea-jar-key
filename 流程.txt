@@ -1,0 +1,8 @@
+
+idea64.exe.vmoptions
+
+idea.exe.vmoptions
+
+ÅäºÏÐÞ¸Ä:
+
+-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin\jetbrains-agent.jar
